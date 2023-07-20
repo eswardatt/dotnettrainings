@@ -1,0 +1,10 @@
+D:\Kumar\windows_demo\bin\Debug\windows_demo.exe.config
+D:\Kumar\windows_demo\bin\Debug\windows_demo.exe
+D:\Kumar\windows_demo\bin\Debug\windows_demo.pdb
+D:\Kumar\windows_demo\obj\Debug\windows_demo.csproj.AssemblyReference.cache
+D:\Kumar\windows_demo\obj\Debug\windows_demo.Form1.resources
+D:\Kumar\windows_demo\obj\Debug\windows_demo.Properties.Resources.resources
+D:\Kumar\windows_demo\obj\Debug\windows_demo.csproj.GenerateResource.cache
+D:\Kumar\windows_demo\obj\Debug\windows_demo.csproj.CoreCompileInputs.cache
+D:\Kumar\windows_demo\obj\Debug\windows_demo.exe
+D:\Kumar\windows_demo\obj\Debug\windows_demo.pdb
