@@ -1,0 +1,16 @@
+D:\Kumar\inheritance\bin\Debug\net5.0\inheritance.exe
+D:\Kumar\inheritance\bin\Debug\net5.0\inheritance.deps.json
+D:\Kumar\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.json
+D:\Kumar\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.dev.json
+D:\Kumar\inheritance\bin\Debug\net5.0\inheritance.dll
+D:\Kumar\inheritance\bin\Debug\net5.0\ref\inheritance.dll
+D:\Kumar\inheritance\bin\Debug\net5.0\inheritance.pdb
+D:\Kumar\inheritance\obj\Debug\net5.0\inheritance.csproj.AssemblyReference.cache
+D:\Kumar\inheritance\obj\Debug\net5.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfoInputs.cache
+D:\Kumar\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfo.cs
+D:\Kumar\inheritance\obj\Debug\net5.0\inheritance.csproj.CoreCompileInputs.cache
+D:\Kumar\inheritance\obj\Debug\net5.0\inheritance.dll
+D:\Kumar\inheritance\obj\Debug\net5.0\ref\inheritance.dll
+D:\Kumar\inheritance\obj\Debug\net5.0\inheritance.pdb
+D:\Kumar\inheritance\obj\Debug\net5.0\inheritance.genruntimeconfig.cache
