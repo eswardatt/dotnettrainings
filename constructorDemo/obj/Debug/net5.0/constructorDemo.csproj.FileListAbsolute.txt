@@ -1,0 +1,16 @@
+D:\Kumar\constructorDemo\bin\Debug\net5.0\constructorDemo.exe
+D:\Kumar\constructorDemo\bin\Debug\net5.0\constructorDemo.deps.json
+D:\Kumar\constructorDemo\bin\Debug\net5.0\constructorDemo.runtimeconfig.json
+D:\Kumar\constructorDemo\bin\Debug\net5.0\constructorDemo.runtimeconfig.dev.json
+D:\Kumar\constructorDemo\bin\Debug\net5.0\constructorDemo.dll
+D:\Kumar\constructorDemo\bin\Debug\net5.0\ref\constructorDemo.dll
+D:\Kumar\constructorDemo\bin\Debug\net5.0\constructorDemo.pdb
+D:\Kumar\constructorDemo\obj\Debug\net5.0\constructorDemo.csproj.AssemblyReference.cache
+D:\Kumar\constructorDemo\obj\Debug\net5.0\constructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\constructorDemo\obj\Debug\net5.0\constructorDemo.AssemblyInfoInputs.cache
+D:\Kumar\constructorDemo\obj\Debug\net5.0\constructorDemo.AssemblyInfo.cs
+D:\Kumar\constructorDemo\obj\Debug\net5.0\constructorDemo.csproj.CoreCompileInputs.cache
+D:\Kumar\constructorDemo\obj\Debug\net5.0\constructorDemo.dll
+D:\Kumar\constructorDemo\obj\Debug\net5.0\ref\constructorDemo.dll
+D:\Kumar\constructorDemo\obj\Debug\net5.0\constructorDemo.pdb
+D:\Kumar\constructorDemo\obj\Debug\net5.0\constructorDemo.genruntimeconfig.cache

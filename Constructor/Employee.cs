@@ -11,9 +11,9 @@ namespace Constructor
         int a;
 
         public int b;
-        public Employee(int a)
+        public Employee(int x)
         {
-           this.a = a;
+           a = x;
         }
 
         public void Test()
