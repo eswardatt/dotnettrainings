@@ -32,5 +32,18 @@ namespace AdoNet
             sqlDataAdapter.Fill(dt);
             return dt;
         }
+
+        public DataTable Get_1()
+        {
+           // DataTable dt = new DataTable();
+            DataSet ds = new DataSet();
+
+            string qry = "SELECT SkillName,[created] from [MySkills] order by SkillName; select * from MyLearnings";
+            SqlConnection sqlConnection = new SqlConnection(conStr);
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(qry, sqlConnection);
+            sqlDataAdapter.Fill(ds);
+            DataTable dt_1 = ds.Tables["MySkills"];
+            return dt_1;
+        }
     }
 }

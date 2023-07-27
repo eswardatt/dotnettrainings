@@ -38,7 +38,7 @@ namespace AdoNet
 
         void binddate()
         {
-            dataGridView1.DataSource = repo.Get();
+            dataGridView1.DataSource = repo.Get_1();
         }
     }
 }
