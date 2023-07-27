@@ -3,9 +3,8 @@ using System.Text;
 
 namespace DataTypes
 {
-    class Program
+   public class Program
     {
-        
         static void Main(string[] args)
         {
             float money = 2000.90f;
