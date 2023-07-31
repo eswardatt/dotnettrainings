@@ -1,0 +1,16 @@
+D:\Kumar\dotnettrainings\classtypes\bin\Debug\net5.0\classtypes.exe
+D:\Kumar\dotnettrainings\classtypes\bin\Debug\net5.0\classtypes.deps.json
+D:\Kumar\dotnettrainings\classtypes\bin\Debug\net5.0\classtypes.runtimeconfig.json
+D:\Kumar\dotnettrainings\classtypes\bin\Debug\net5.0\classtypes.runtimeconfig.dev.json
+D:\Kumar\dotnettrainings\classtypes\bin\Debug\net5.0\classtypes.dll
+D:\Kumar\dotnettrainings\classtypes\bin\Debug\net5.0\ref\classtypes.dll
+D:\Kumar\dotnettrainings\classtypes\bin\Debug\net5.0\classtypes.pdb
+D:\Kumar\dotnettrainings\classtypes\obj\Debug\net5.0\classtypes.csproj.AssemblyReference.cache
+D:\Kumar\dotnettrainings\classtypes\obj\Debug\net5.0\classtypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\dotnettrainings\classtypes\obj\Debug\net5.0\classtypes.AssemblyInfoInputs.cache
+D:\Kumar\dotnettrainings\classtypes\obj\Debug\net5.0\classtypes.AssemblyInfo.cs
+D:\Kumar\dotnettrainings\classtypes\obj\Debug\net5.0\classtypes.csproj.CoreCompileInputs.cache
+D:\Kumar\dotnettrainings\classtypes\obj\Debug\net5.0\classtypes.dll
+D:\Kumar\dotnettrainings\classtypes\obj\Debug\net5.0\ref\classtypes.dll
+D:\Kumar\dotnettrainings\classtypes\obj\Debug\net5.0\classtypes.pdb
+D:\Kumar\dotnettrainings\classtypes\obj\Debug\net5.0\classtypes.genruntimeconfig.cache

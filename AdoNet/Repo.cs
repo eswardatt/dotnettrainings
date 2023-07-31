@@ -42,7 +42,7 @@ namespace AdoNet
             SqlConnection sqlConnection = new SqlConnection(conStr);
             SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(qry, sqlConnection);
             sqlDataAdapter.Fill(ds);
-            DataTable dt_1 = ds.Tables["MySkills"];
+            DataTable dt_1 = ds.Tables["0"];
             return dt_1;
         }
     }
