@@ -1,0 +1,16 @@
+D:\Kumar\dotnettrainings\Accessspecifiers2\bin\Debug\net5.0\Accessspecifiers2.exe
+D:\Kumar\dotnettrainings\Accessspecifiers2\bin\Debug\net5.0\Accessspecifiers2.deps.json
+D:\Kumar\dotnettrainings\Accessspecifiers2\bin\Debug\net5.0\Accessspecifiers2.runtimeconfig.json
+D:\Kumar\dotnettrainings\Accessspecifiers2\bin\Debug\net5.0\Accessspecifiers2.runtimeconfig.dev.json
+D:\Kumar\dotnettrainings\Accessspecifiers2\bin\Debug\net5.0\Accessspecifiers2.dll
+D:\Kumar\dotnettrainings\Accessspecifiers2\bin\Debug\net5.0\ref\Accessspecifiers2.dll
+D:\Kumar\dotnettrainings\Accessspecifiers2\bin\Debug\net5.0\Accessspecifiers2.pdb
+D:\Kumar\dotnettrainings\Accessspecifiers2\obj\Debug\net5.0\Accessspecifiers2.csproj.AssemblyReference.cache
+D:\Kumar\dotnettrainings\Accessspecifiers2\obj\Debug\net5.0\Accessspecifiers2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\dotnettrainings\Accessspecifiers2\obj\Debug\net5.0\Accessspecifiers2.AssemblyInfoInputs.cache
+D:\Kumar\dotnettrainings\Accessspecifiers2\obj\Debug\net5.0\Accessspecifiers2.AssemblyInfo.cs
+D:\Kumar\dotnettrainings\Accessspecifiers2\obj\Debug\net5.0\Accessspecifiers2.csproj.CoreCompileInputs.cache
+D:\Kumar\dotnettrainings\Accessspecifiers2\obj\Debug\net5.0\Accessspecifiers2.dll
+D:\Kumar\dotnettrainings\Accessspecifiers2\obj\Debug\net5.0\ref\Accessspecifiers2.dll
+D:\Kumar\dotnettrainings\Accessspecifiers2\obj\Debug\net5.0\Accessspecifiers2.pdb
+D:\Kumar\dotnettrainings\Accessspecifiers2\obj\Debug\net5.0\Accessspecifiers2.genruntimeconfig.cache

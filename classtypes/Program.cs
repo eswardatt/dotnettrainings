@@ -6,14 +6,22 @@ namespace classtypes
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
-            employee.salary = 50000;
-            employee.GetTax();
+            
+            PermanentEmployee permanent = new PermanentEmployee();
+            permanent.GetName("Kumar");
+            int perHours = 20;
+            int amountperhour = 1000;
+            permanent.GetSalary(perHours,amountperhour);
 
-            Employee employee_1 = new Employee();
-            employee_1.salary = 70000;
-            //Employee.tax = 20;
-            employee_1.GetTax();
+            ContractEmployee contract = new ContractEmployee();
+            contract.GetName("Krishna");
+            int contHours = 20;
+            int amountperHourforCont = 700;
+            contract.GetSalary(contHours, amountperHourforCont);
+
+            Student student = new Student();
+            student.GetName("Kumar");
+            student.GetName("Kumar", "Krishna");
         }
     }
 }

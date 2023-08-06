@@ -1,0 +1,15 @@
+D:\Kumar\dotnettrainings\extensionmethods\bin\Debug\net5.0\extensionmethods.exe
+D:\Kumar\dotnettrainings\extensionmethods\bin\Debug\net5.0\extensionmethods.deps.json
+D:\Kumar\dotnettrainings\extensionmethods\bin\Debug\net5.0\extensionmethods.runtimeconfig.json
+D:\Kumar\dotnettrainings\extensionmethods\bin\Debug\net5.0\extensionmethods.runtimeconfig.dev.json
+D:\Kumar\dotnettrainings\extensionmethods\bin\Debug\net5.0\extensionmethods.dll
+D:\Kumar\dotnettrainings\extensionmethods\bin\Debug\net5.0\ref\extensionmethods.dll
+D:\Kumar\dotnettrainings\extensionmethods\bin\Debug\net5.0\extensionmethods.pdb
+D:\Kumar\dotnettrainings\extensionmethods\obj\Debug\net5.0\extensionmethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\dotnettrainings\extensionmethods\obj\Debug\net5.0\extensionmethods.AssemblyInfoInputs.cache
+D:\Kumar\dotnettrainings\extensionmethods\obj\Debug\net5.0\extensionmethods.AssemblyInfo.cs
+D:\Kumar\dotnettrainings\extensionmethods\obj\Debug\net5.0\extensionmethods.csproj.CoreCompileInputs.cache
+D:\Kumar\dotnettrainings\extensionmethods\obj\Debug\net5.0\extensionmethods.dll
+D:\Kumar\dotnettrainings\extensionmethods\obj\Debug\net5.0\ref\extensionmethods.dll
+D:\Kumar\dotnettrainings\extensionmethods\obj\Debug\net5.0\extensionmethods.pdb
+D:\Kumar\dotnettrainings\extensionmethods\obj\Debug\net5.0\extensionmethods.genruntimeconfig.cache
