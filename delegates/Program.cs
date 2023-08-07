@@ -2,14 +2,14 @@
 
 namespace delegates
 {
-    public delegate void DelegateName(string name);
-    public delegate void ArthimaticDelegate(int x, int y);
+     public delegate void DelegateName(string name);
+     delegate void ArthimaticDelegate(int x, int y);
     class Program
     {
         static void Main(string[] args)
         {
             Program program = new Program();
-            DelegateName delegateName = new DelegateName(program.GetName);
+            DelegateName delegateName = new DelegateName(GetName);
             delegateName.Invoke("Eswar");
 
             ArthimaticDelegate arthimaticDelegate = new ArthimaticDelegate(program.Add);
@@ -30,7 +30,7 @@ namespace delegates
             print_1("is short-hand technique of Anonumous methods");
         }
 
-        public void GetName(string name)
+        public static void GetName(string name)
         {
             Console.WriteLine("Name is : {0}",name);
         }

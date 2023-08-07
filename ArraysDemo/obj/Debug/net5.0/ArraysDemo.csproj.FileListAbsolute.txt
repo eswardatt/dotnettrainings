@@ -1,0 +1,15 @@
+D:\Kumar\dotnettrainings\ArraysDemo\bin\Debug\net5.0\ArraysDemo.exe
+D:\Kumar\dotnettrainings\ArraysDemo\bin\Debug\net5.0\ArraysDemo.deps.json
+D:\Kumar\dotnettrainings\ArraysDemo\bin\Debug\net5.0\ArraysDemo.runtimeconfig.json
+D:\Kumar\dotnettrainings\ArraysDemo\bin\Debug\net5.0\ArraysDemo.runtimeconfig.dev.json
+D:\Kumar\dotnettrainings\ArraysDemo\bin\Debug\net5.0\ArraysDemo.dll
+D:\Kumar\dotnettrainings\ArraysDemo\bin\Debug\net5.0\ref\ArraysDemo.dll
+D:\Kumar\dotnettrainings\ArraysDemo\bin\Debug\net5.0\ArraysDemo.pdb
+D:\Kumar\dotnettrainings\ArraysDemo\obj\Debug\net5.0\ArraysDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\dotnettrainings\ArraysDemo\obj\Debug\net5.0\ArraysDemo.AssemblyInfoInputs.cache
+D:\Kumar\dotnettrainings\ArraysDemo\obj\Debug\net5.0\ArraysDemo.AssemblyInfo.cs
+D:\Kumar\dotnettrainings\ArraysDemo\obj\Debug\net5.0\ArraysDemo.csproj.CoreCompileInputs.cache
+D:\Kumar\dotnettrainings\ArraysDemo\obj\Debug\net5.0\ArraysDemo.dll
+D:\Kumar\dotnettrainings\ArraysDemo\obj\Debug\net5.0\ref\ArraysDemo.dll
+D:\Kumar\dotnettrainings\ArraysDemo\obj\Debug\net5.0\ArraysDemo.pdb
+D:\Kumar\dotnettrainings\ArraysDemo\obj\Debug\net5.0\ArraysDemo.genruntimeconfig.cache
