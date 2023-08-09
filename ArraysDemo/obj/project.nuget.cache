@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UgPOROkAdcpNGphs83gDYXBHZWyJ5l7HlMwOr/EEyUUECCniBSFPa4iU4qHi5cFxe6I87cFSrVTcvrf21GebfQ==",
+  "dgSpecHash": "lj8EwuXQzJ4SbBYzDh0hPmf3ZWWWU1ve19Cpf/h3yS+l7Z0ri+If17YhH5sA9xF3zJr9rNBUS2wVOVVX34pDvQ==",
   "success": true,
   "projectFilePath": "D:\\Kumar\\dotnettrainings\\ArraysDemo\\ArraysDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eswar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eswar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\eswar\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\eswar\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
