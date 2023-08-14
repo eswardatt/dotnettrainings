@@ -1,0 +1,16 @@
+D:\Kumar\dotnettrainings\threaddemo\bin\Debug\net5.0\threaddemo.exe
+D:\Kumar\dotnettrainings\threaddemo\bin\Debug\net5.0\threaddemo.deps.json
+D:\Kumar\dotnettrainings\threaddemo\bin\Debug\net5.0\threaddemo.runtimeconfig.json
+D:\Kumar\dotnettrainings\threaddemo\bin\Debug\net5.0\threaddemo.runtimeconfig.dev.json
+D:\Kumar\dotnettrainings\threaddemo\bin\Debug\net5.0\threaddemo.dll
+D:\Kumar\dotnettrainings\threaddemo\bin\Debug\net5.0\ref\threaddemo.dll
+D:\Kumar\dotnettrainings\threaddemo\bin\Debug\net5.0\threaddemo.pdb
+D:\Kumar\dotnettrainings\threaddemo\obj\Debug\net5.0\threaddemo.csproj.AssemblyReference.cache
+D:\Kumar\dotnettrainings\threaddemo\obj\Debug\net5.0\threaddemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\dotnettrainings\threaddemo\obj\Debug\net5.0\threaddemo.AssemblyInfoInputs.cache
+D:\Kumar\dotnettrainings\threaddemo\obj\Debug\net5.0\threaddemo.AssemblyInfo.cs
+D:\Kumar\dotnettrainings\threaddemo\obj\Debug\net5.0\threaddemo.csproj.CoreCompileInputs.cache
+D:\Kumar\dotnettrainings\threaddemo\obj\Debug\net5.0\threaddemo.dll
+D:\Kumar\dotnettrainings\threaddemo\obj\Debug\net5.0\ref\threaddemo.dll
+D:\Kumar\dotnettrainings\threaddemo\obj\Debug\net5.0\threaddemo.pdb
+D:\Kumar\dotnettrainings\threaddemo\obj\Debug\net5.0\threaddemo.genruntimeconfig.cache

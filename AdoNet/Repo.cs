@@ -12,7 +12,7 @@ namespace AdoNet
     class Repo
     {
         string conStr = ConfigurationManager.ConnectionStrings["MyConnection"].ConnectionString;
-
+          
         public void AddSkill(string skillname,string createdby)
         {
             string qry = $"insert into MySkills (Id,SkillName,createdby,updatedby) values (NEWID(),'{skillname}','{createdby}','{createdby}')";

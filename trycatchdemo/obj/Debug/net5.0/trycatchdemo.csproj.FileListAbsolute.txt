@@ -1,0 +1,16 @@
+D:\Kumar\dotnettrainings\trycatchdemo\bin\Debug\net5.0\trycatchdemo.exe
+D:\Kumar\dotnettrainings\trycatchdemo\bin\Debug\net5.0\trycatchdemo.deps.json
+D:\Kumar\dotnettrainings\trycatchdemo\bin\Debug\net5.0\trycatchdemo.runtimeconfig.json
+D:\Kumar\dotnettrainings\trycatchdemo\bin\Debug\net5.0\trycatchdemo.runtimeconfig.dev.json
+D:\Kumar\dotnettrainings\trycatchdemo\bin\Debug\net5.0\trycatchdemo.dll
+D:\Kumar\dotnettrainings\trycatchdemo\bin\Debug\net5.0\ref\trycatchdemo.dll
+D:\Kumar\dotnettrainings\trycatchdemo\bin\Debug\net5.0\trycatchdemo.pdb
+D:\Kumar\dotnettrainings\trycatchdemo\obj\Debug\net5.0\trycatchdemo.csproj.AssemblyReference.cache
+D:\Kumar\dotnettrainings\trycatchdemo\obj\Debug\net5.0\trycatchdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\dotnettrainings\trycatchdemo\obj\Debug\net5.0\trycatchdemo.AssemblyInfoInputs.cache
+D:\Kumar\dotnettrainings\trycatchdemo\obj\Debug\net5.0\trycatchdemo.AssemblyInfo.cs
+D:\Kumar\dotnettrainings\trycatchdemo\obj\Debug\net5.0\trycatchdemo.csproj.CoreCompileInputs.cache
+D:\Kumar\dotnettrainings\trycatchdemo\obj\Debug\net5.0\trycatchdemo.dll
+D:\Kumar\dotnettrainings\trycatchdemo\obj\Debug\net5.0\ref\trycatchdemo.dll
+D:\Kumar\dotnettrainings\trycatchdemo\obj\Debug\net5.0\trycatchdemo.pdb
+D:\Kumar\dotnettrainings\trycatchdemo\obj\Debug\net5.0\trycatchdemo.genruntimeconfig.cache
