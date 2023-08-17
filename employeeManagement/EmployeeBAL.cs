@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Text;
 
 namespace employeeManagement
 {
@@ -54,6 +55,41 @@ namespace employeeManagement
                 employee.Email = row["Email"].ToString();
             }
             return employee;
+        }
+
+        public string AddEmployees(List<Employee> employees)
+        {
+            DataTable dt = new DataTable();
+            string msg = "";
+            int empCount = employees.Count;
+            try
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.Append("insert into [EmployeeData] ([EmployeeName],[Email],[Phone],[Address]) values");
+                
+                for (int i = 0; i < empCount; i++)
+                {
+                    sb.Append($"('{employees[i].Name}','{employees[i].Email}','{employees[i].Phone}','{employees[i].Address}'),");
+                }
+                string qry = sb.ToString().TrimEnd(',');
+                qry += $"\n select top {empCount} Id,EmployeeName,Email,Phone,Address from [EmployeeData] order by Id desc ; ";
+
+               
+                dt = employeeDal.Get(qry);
+                if (dt.Rows.Count == empCount)
+                {
+                    msg = $"Records : {empCount} saved successfully";
+                }
+            }
+            catch (Exception ex)
+            {
+
+                msg = ex.Message.ToString();
+            }
+
+            return msg;
+           
+
         }
 
         public Employee UpdateEmployee(Employee obj)
