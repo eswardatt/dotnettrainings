@@ -1,0 +1,16 @@
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\bin\Debug\net5.0\singletonPattern.exe
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\bin\Debug\net5.0\singletonPattern.deps.json
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\bin\Debug\net5.0\singletonPattern.runtimeconfig.json
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\bin\Debug\net5.0\singletonPattern.runtimeconfig.dev.json
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\bin\Debug\net5.0\singletonPattern.dll
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\bin\Debug\net5.0\ref\singletonPattern.dll
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\bin\Debug\net5.0\singletonPattern.pdb
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.AssemblyInfoInputs.cache
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.AssemblyInfo.cs
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.csproj.CoreCompileInputs.cache
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.dll
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\ref\singletonPattern.dll
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.pdb
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.genruntimeconfig.cache
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.csproj.AssemblyReference.cache
