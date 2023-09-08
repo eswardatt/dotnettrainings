@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datepicker Color Example</title>
+    <!-- Include jQuery and jQuery UI -->
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <style>
+        .custom-date-color {
+            background-color: red; /* Change to your desired color */
+            color: white; /* Change to text color that suits your background color */
+        }
+    </style>
+</head>
+<body>
+    <h1>Datepicker Color Example</h1>
+    <input type="text" id="datepicker" placeholder="Select a date">
+    <script>
+    $(function() {
+      $("#datepicker").datepicker({
+        beforeShowDay: function(date) {
+          var customDate = new Date('2023-08-15'); // Change this to your desired date
+          if (date.toDateString() === customDate.toDateString()) {
+            return [true, 'custom-date-color', 'Custom Date'];
+          }
+          return [true, '', ''];
+        }
+      });
+    });
+    </script>
+</body>
+</html>

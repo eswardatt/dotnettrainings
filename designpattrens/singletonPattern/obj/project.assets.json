@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "WhatsAppAPI/15.4.29": {
+        "type": "package",
+        "compile": {
+          "lib/net40/WhatsAppApi.dll": {}
+        },
+        "runtime": {
+          "lib/net40/WhatsAppApi.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WhatsAppAPI/15.4.29": {
+      "sha512": "6vUddAcHsxUSi2DBHrGC9Af/n6b4TeLmMSE4+HqlOn6k3FtzRxEgmDEZpzL7rkGaP1M+/nypWsObKMcvl24p3Q==",
+      "type": "package",
+      "path": "whatsappapi/15.4.29",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/WhatsAppApi.dll",
+        "whatsappapi.15.4.29.nupkg.sha512",
+        "whatsappapi.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "WhatsAppAPI >= 15.4.29"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\eswar\\.nuget\\packages\\": {}
@@ -45,6 +70,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "WhatsAppAPI": {
+            "target": "Package",
+            "version": "[15.4.29, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -63,5 +94,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WhatsAppAPI 15.4.29' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WhatsAppAPI",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

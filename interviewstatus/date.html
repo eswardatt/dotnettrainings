@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    <style>
+        .highlighted {
+            background-color: yellow;
+            color: black;
+        }
+        .custom-date-color {
+            background-color: red; /* Change to your desired color */
+            color: green; /* Change to text color that suits your background color */
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+            <div id="result"></div>
+            <div id="calendar-container"></div>
+        </div>
+    </form>
+    <script>
+        $(document).ready(function () {
+            // Initialize the datepicker
+            $("#calendar-container").datepicker({
+                numberOfMonths: 3,
+                showButtonPanel: true,
+                beforeShowDay: function (date) {
+                    var customDate = new Date('2023-08-15');
+                    if (date.toDateString() === customDate.toDateString()) {
+                        return [true, 'custom-date-color', 'Custom Date'];
+                    }
+                    return [true, ""];
+                }
+            });
+        });
+
+
+    </script>
+</body>
+</html>

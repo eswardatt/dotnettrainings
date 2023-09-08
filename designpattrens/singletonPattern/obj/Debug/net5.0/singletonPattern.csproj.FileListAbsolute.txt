@@ -13,4 +13,6 @@ D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\single
 D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\ref\singletonPattern.dll
 D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.pdb
 D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.genruntimeconfig.cache
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\bin\Debug\net5.0\WhatsAppApi.dll
+D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.csproj.CopyComplete
 D:\Kumar\dotnettrainings\designpattrens\singletonPattern\obj\Debug\net5.0\singletonPattern.csproj.AssemblyReference.cache

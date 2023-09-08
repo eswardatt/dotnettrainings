@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "WhatsAppAPI": {
+              "target": "Package",
+              "version": "[15.4.29, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

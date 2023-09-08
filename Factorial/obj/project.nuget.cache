@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/6p5LGKM4y96VDCkH4y7WNhyIqQWKK13ffTMYl7Z1jXR17nkQY+pd8WKhkvrkS6wViWMZa5e91JXz93R0voSg==",
+  "success": true,
+  "projectFilePath": "D:\\Kumar\\dotnettrainings\\Factorial\\Factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eswar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eswar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\eswar\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\eswar\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

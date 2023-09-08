@@ -1,0 +1,16 @@
+D:\Kumar\dotnettrainings\Factorial\bin\Debug\net5.0\Factorial.exe
+D:\Kumar\dotnettrainings\Factorial\bin\Debug\net5.0\Factorial.deps.json
+D:\Kumar\dotnettrainings\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.json
+D:\Kumar\dotnettrainings\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.dev.json
+D:\Kumar\dotnettrainings\Factorial\bin\Debug\net5.0\Factorial.dll
+D:\Kumar\dotnettrainings\Factorial\bin\Debug\net5.0\ref\Factorial.dll
+D:\Kumar\dotnettrainings\Factorial\bin\Debug\net5.0\Factorial.pdb
+D:\Kumar\dotnettrainings\Factorial\obj\Debug\net5.0\Factorial.csproj.AssemblyReference.cache
+D:\Kumar\dotnettrainings\Factorial\obj\Debug\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumar\dotnettrainings\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfoInputs.cache
+D:\Kumar\dotnettrainings\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfo.cs
+D:\Kumar\dotnettrainings\Factorial\obj\Debug\net5.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Kumar\dotnettrainings\Factorial\obj\Debug\net5.0\Factorial.dll
+D:\Kumar\dotnettrainings\Factorial\obj\Debug\net5.0\ref\Factorial.dll
+D:\Kumar\dotnettrainings\Factorial\obj\Debug\net5.0\Factorial.pdb
+D:\Kumar\dotnettrainings\Factorial\obj\Debug\net5.0\Factorial.genruntimeconfig.cache

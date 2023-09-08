@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZzBxdvhdxYl/KkPeN7KlwOStpiRzKgUN2ST36OrlcM03NeXk5ethYnmRDgEsiFD9/UQYLCRR+COFB/PrVYMFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Kumar\\dotnettrainings\\demoAppCallingInvoke\\demoAppCallingInvoke.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eswar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "v94goX8+fGPno++fEzN0ElnVTltXlnm5I3EKPwL4x6WTBlOCJxavhyb+CnwIznAl1ee3XMpv/yx9jSY2aWoxpw==",
+  "dgSpecHash": "0B1lvXi5BLcE01ixNA8u+WuxE+dpNqigsWmUdQS/dPMYcEq0rbcxYjyNMm9NDTbjlmyPvmVsNFzO5erDQVEaZA==",
   "success": true,
   "projectFilePath": "D:\\Kumar\\dotnettrainings\\designpattrens\\singletonPattern\\singletonPattern.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\eswar\\.nuget\\packages\\whatsappapi\\15.4.29\\whatsappapi.15.4.29.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WhatsAppAPI 15.4.29' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WhatsAppAPI",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
