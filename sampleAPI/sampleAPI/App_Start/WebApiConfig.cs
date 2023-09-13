@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using System.Web.Http.Cors;
+
+
 
 namespace sampleAPI
 {
@@ -13,6 +16,10 @@ namespace sampleAPI
 
             // Web API routes
             config.MapHttpAttributeRoutes();
+            config.EnableCors();
+            var corsPolicy = new EnableCorsAttribute("http://localhost:4200/", "*", "*");
+            config.EnableCors(corsPolicy);
+
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",

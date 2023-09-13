@@ -1,0 +1,1 @@
+alter table [Employees] add [isActive] bit default 1;

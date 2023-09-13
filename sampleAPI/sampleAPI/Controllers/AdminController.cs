@@ -22,21 +22,26 @@ namespace sampleAPI.Controllers
         [HttpGet]
         public IHttpActionResult GetAdmins()
         {
+
             List<Admin> admins = new List<Admin>();
             admins = applicationContext.Admins.AsQueryable().ToList();
+
             return Ok(admins);
+
         }
 
         [HttpPost]
         public IHttpActionResult AddAdmin(Admin admin)
         {
-            if (admin != null)
+            if (admin == null)
             {
-                admin.createdAt = DateTime.Now;
-                applicationContext.Admins.Add(admin);
-                applicationContext.SaveChanges();
+                return BadRequest();
             }
-            return Created("admin", admin);
+            admin.createdAt = DateTime.Now;
+            applicationContext.Admins.Add(admin);
+            applicationContext.SaveChanges();
+            Admin obj = applicationContext.Admins.Where(x => x.Email == admin.Email).FirstOrDefault();
+            return Created("admin", obj);
         }
 
         [HttpPost]
@@ -49,14 +54,9 @@ namespace sampleAPI.Controllers
                 applicationContext.SaveChanges();
                 return Created("admin", admin);
             }
-            else
-            {
-                var responseMessage = new HttpResponseMessage(HttpStatusCode.NotFound);
-                responseMessage.Content = new StringContent("Item not found.");
-                return Created("admin", responseMessage.ReasonPhrase);
-            }
-
-
+            var responseMessage = new HttpResponseMessage(HttpStatusCode.NotFound);
+            responseMessage.Content = new StringContent("Item not found.");
+            return Created("admin", responseMessage.ReasonPhrase);
         }
     }
 }
