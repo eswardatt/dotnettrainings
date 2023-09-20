@@ -15,7 +15,7 @@ namespace AdoNet
           
         public void AddSkill(string skillname,string createdby)
         {
-            string qry = $"insert into MySkills (Id,SkillName,createdby,updatedbykkkjkk) values (NEWID(),'{skillname}','{createdby}','{createdby}')";
+            string qry = $"insert into MySkills (Id,SkillName,createdby,updatedby) values (NEWID(),'{skillname}','{createdby}','{createdby}')";
             SqlConnection connection = new SqlConnection(conStr);
             SqlCommand cmd = new SqlCommand(qry,connection);
             connection.Open();
