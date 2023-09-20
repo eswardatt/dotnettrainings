@@ -30,11 +30,7 @@ namespace linqtocollections
                 };
             employees_1 = employees;
         }
-        private static List<Employee> GetEmployeesData()
-        {
-            CustomEmployee customEmployee = new CustomEmployee();
-            return customEmployee.employees_1;
-        }
+       
 
         //First is used to retrieve the first element of a sequence that matches a specified condition. If no matching element is found, it will throw an exception.
         //FirstOrDefault is similar to First, but it returns the default value for the type (usually null for reference types) if no matching element is found instead of throwing an exception.
